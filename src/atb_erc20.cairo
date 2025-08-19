@@ -1,0 +1,1 @@
+// name, symbol, decimals, total_supply mint, trasfer, approve, allowance, balance_of, transfer_from
