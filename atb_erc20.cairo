@@ -1,7 +1,7 @@
 use starknet::ContractAddress;
 
 // name, symbol, decimals, total_supply mint, trasfer, approve, allowance, balance_of, transfer_from
-// SPDX-License-Identifier: Apache-2.0
+// SPDX-License-Identifier: Apache-2.0dd
 
 #[starknet::interface]
 trait IERC20 <TContractState> {
