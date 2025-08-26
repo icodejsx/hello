@@ -31,4 +31,4 @@ fn set_total_period(time: u32){
 
 // Constant Array 
 
-const FIXED_ARRAY_OF_BOOL: [bool: 4] = [true, false, true, false];
+const FIXED_ARRAY_OF_BOOL: (bool, bool, bool, bool) = (true, false, true, false);
